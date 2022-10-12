@@ -15,6 +15,12 @@ html {
   font-size: 62.5%;
 }
 
-body {
+// body {
+//   overflow-x: hidden;
+// }
+
+// instead of body we will use on container
+.container {
   overflow-x: hidden;
+  width: 100%;
 }
